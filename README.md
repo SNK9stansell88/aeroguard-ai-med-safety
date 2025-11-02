@@ -4,6 +4,9 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)]()
 [![Google Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)]()
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SNK9stansell88/aeroguard-ai-med-safety/blob/main/notebooks/01_data_forecast_baseline.ipynb)
+
+
 
 # AeroGuard-AI — System-Level Medication Safety (EMS / Air Medical)
 
