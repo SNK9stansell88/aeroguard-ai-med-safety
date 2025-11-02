@@ -1,0 +1,24 @@
+# keep folders but ignore their contents
+data/**
+!data/.gitkeep
+
+models/**
+!models/.gitkeep
+
+reports/figures/**
+!reports/figures/.gitkeep
+
+# common data/artifacts
+*.csv
+*.parquet
+*.xlsx
+*.jsonl
+*.joblib
+*.pkl
+*.zip
+
+# notebooks/cache
+.ipynb_checkpoints/
+**/__pycache__/
+*.log
+.env
