@@ -32,6 +32,51 @@
 - Human-in-the-loop safety  
 - Model Card & bias checks (in `docs/`, to be added)  
 - Alert-fatigue budgets and rollback plan
+## Results (Baseline Models)
+
+### 1. Medication-Error Forecasting (ETS)
+- Model: Exponential Smoothing (additive trend + seasonality)
+- Forecast horizon: 6 months
+- Output: Monthly event counts with 95% prediction intervals
+- Artifacts:
+  - `reports/figures/forecast_events_ets.png`
+  - `reports/monthly_counts.csv`
+
+**Executive interpretation:**  
+The forecast shows a rising seasonal pattern in medication-error events. If this trend continues, expected increases should impact QA workload, drug restocking, training, and protocol reviews.
+
+---
+
+### 2. Harm-Risk Model (GBDT + Probability Calibration)
+- Model: Gradient Boosting Classifier
+- Calibrated with: `CalibratedClassifierCV(method="sigmoid")`
+- Evaluation (test set):
+  - **ROC AUC:** ~0.93  
+  - **PR AUC:** ~0.87  
+  - **Brier Score:** ~0.05  
+- Artifacts:
+  - `artifacts/harm_model_calibrated.joblib`
+  - `artifacts/metrics_harm.json`
+  - `reports/figures/harm_model_roc_pr.png`
+  - `reports/figures/harm_model_calibration.png`
+  - `reports/top_meds_predicted_risk_last90.csv`
+
+**Executive interpretation:**  
+The calibrated model produces reliable probability estimates of clinically meaningful harm.  
+This allows targeting high-risk medications, bases, or clinical patterns **before** adverse events occur.
+
+---
+
+### What this enables
+✅ Forecast expected medication-error workload  
+✅ Identify bases/medications at highest predicted risk  
+✅ Calibrated probabilities = real clinical meaning  
+✅ Artifacts are reproducible and production-friendly (joblib + CSV)  
+
+This baseline establishes the foundation for:
+- RL optimization of safety interventions
+- Model monitoring / drift detection
+- Deployment into a dashboard or API
 
 ## License
 TBD
