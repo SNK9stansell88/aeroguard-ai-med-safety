@@ -1,0 +1,489 @@
+Report ID,Month,Day,Year,Source,Branch,Primary Risk,Risk Event,Medication 1,Medication 2,Event,Medication Cross Check,Precursor/Stressor,Outcome,Pattern,Pattern Specifics
+,January,9,2021,D,Air,Medication,Adverse Effect,Ativan,Fentanyl,Decrease in RR and BP after Fentayl 100 mg and Ativan 3.5 mg IV.,Not documented,,Rapid response activated at receiving. Narcan administered. Patient stabilized.,,
+,January,16,2021,D,Air,Medication,Medication Error,Atropine,,40 kg x Atropine 0.02/kg) = 0.8 mg delivered. But max dose is 0.5 mg.,Not documented,Pediatric trauma,"Desired effect (increase in HR), but patient succumbed to injuries.",Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,January,16,2021,A,Air,Medication,Medication Error,Cardizem,Cardene,Patient put on Cardizem drip instead of Cardene drip ,Not documented,,"Pulseless V-Tach, CPR, Return to sending facility.",Unintended Wrong Medication Given,Wrong Med (Cardizem instead of Cardene)
+,January,28,2021,A,Air,Medication,Medication Error,Fentanyl,Ketamine,Underdosing of Ketamine and Fentanyl by half,Documented as not done,Self extubation attempt,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,February,3,2021,D,Air,Medication,Medication Error,Morphine,Ativan,Morphine given instead of Ativan.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Ativan)
+,February,9,2021,D,Air,Medication,Medication Waste,Ketamine,Versed,Ketamine vial opend but not used. Versed used instead. Ketamine wasted.,,,,,
+,February,20,2021,A,Air,Medication,Medication Error,Epinephrine,,Epinephrine drip concentration labelled incorrectly by sending hospital.,Documented as done,"ECMO, Multiple drips",Recalculated dosages with correct concentration administerd to desired effects.,Medication dosing error (Protocols),Concentration error
+,February,26,2021,A,Air,Medication,Medication Error,Ketamine,,Administered dose of Ketamine based on pounds instead of kiligrams.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (pound/kg error)
+,March,11,2021,C,Air,Medication,Adverse Effect,Epinephrine,,Epinephrine 1 mg IV given for angioedema - caused HR 170s Afib with RVR,Not documented,Angioedema,HR trended down to 130-140s,,
+,March,13,2021,F,Ground,Medication,Medication Error,Morphine,Ativan,Morphine given instead of Ativan.,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Ativan)
+,March,22,2021,A,Air,Medication,Medication Error,Ketamine,,Ketamine admistered at 1 mg/kg for pain control instead of 0.5mg/kg. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,March,30,2021,A,Air,Medication,Medication Error,Ketamine,,Ketamine administered outside of protocols.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,April,11,2021,D,Ground,Medication,Medication Waste,Ofirmev,,Partial dose of Ofirmev given because 23 mls had spilled out prior. ,Not documented,,Not documented,,
+,April,14,2021,C,Air,Medication,Medication Error,Potassium,,Potassium concentration programmed incorrectly.,Not documented,,Reduced dose which reduced burning sensation at IV site.,IV Pump programming error,Concentration error
+,April,24,2021,E,Air,Medication,Medication Error,Versed,,Versed dose (IV dose) was given IM which exceeded IM max dose.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,April,25,2021,F,Ground,Medication,Medication Error,Versed,,Versed 5 mg given when protocol advised 2 mg for pediatric seizures.,Documented as done,Patient actively seizing,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,April,28,2021,D,Air,Medication,Narcotic Log,Fentanyl,Morphine,Transfer of Fentanyl between bases. Morphine correction. Log book/222 corrections,,,,,
+,April,29,2021,E,Air,Medication,Missing medication,Ketamine,,Ketamine left behind on scene,,,,,
+,April,29,2021,E,Air,Medication,Medication Error,Zofran,,34 kg patient received two separate doses of Zofran 4 mg one 96 min apart. Resulted in prologation of QT interval.,Not documented,,Receing team notified.,Limited information,Limited information
+,April,29,2021,D,Air,Medication,Other,Ativan,,Ativan 1.25 mg given IV instead of intended 1 mg,Documented as done,Patient actively seizing,Not documented,,
+,April,30,2021,C,Air,Medication,Medication Error,Fentanyl,Versed,Preexisting Fentanyl and Versed delivering issues (IV pumps),Documented as done,,Not documented,IV Pump programming error,Dosing error
+,May,2,2021,A,Air,Medication,Medication Error,Succinylcholine,,Succinylcholine given at 1 mg/kg during RSI procedure instead of 2 mg/kg per protocol. ,Not documented,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,May,2,2021,E,Air,Medication,Other,Fentanyl,Versed,Delay at scene because receiving MD refused to release Fentanyl and Versed drips from pumps.,,,,,
+,May,2,2021,E,Air,Medication,Medication Error,Ketamine,,Ketamine bolus error (patient received 2 mg/kg insteas of 0.5mg/kg) due to calculation error. ,Not documented,,Not documented,Medication dosing error (Protocols),Calculation error 
+,May,7,2021,E,Air,Medication,Medication Error,Fentanyl,,Expired Fentanyl administered. ,Not documented,,No adverse effect,Expired medications administered,Expired medications administered
+,May,9,2021,E,Air,Medication,Expired Medication,Ativan,,Expired Ativan in narcotic case.,,,,,
+,May,11,2021,A,Air,Medication,Medication Error,Not Documented,,Expired narcotic administered.,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,May,16,2021,E,Air,Medication,Medication Error,Ketamine,,Ketamine administered at 1 mg/kg for analgesia instead of 0.5 mg/kg per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,May,17,2021,F,Ground,Medication,Medication Error,D10,Ns,D10 andministered instead of NS. Failure of medications cross check. ,Documented as not done,,Not documented,Unintended Wrong Medication Given,Wrong Med (D10 instead of NS)
+,May,20,2021,E,Air,Medication,Expired Medication,Ativan,Versed,Expired Ativan and Versed in narcotic case.,,,,,
+,May,20,2021,A,Air,Medication,Medication Error,Etomidate,,Patient given Etomidate 20 mg IV instead of 18 mg (0.3 mg/kg per RSI protocol).,Not documented,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,May,27,2021,E,Air,Medication,Medication Waste,Ketamine,,"Ketamine vials wasted and documented on narcotic log. (One vials was lost in aircraft, but found after transport completed).",Documented as done.,,,,
+,May,29,2021,E,Air,Medication,Medication Error,Ketamine,,Ketamine adminstered at 2 mg/kg instead 1 mg/kg per protocol. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,May,31,2021,D,Air,Medication,Documentation Error,Levophed,Blood,Documentation errors related to dosing.,Not documented,,,,
+,June,4,2021,A,Air,Medication,Medication Error,Not Documented,,Crew underestimated weight of patient during calculation of RSI medications.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,June,9,2021,D,Air,Medication,Medication Error,Ketamine,,Thought Ketamine vial was 500mg/10 ml when vial was actually 500mg/5 ml (intended dose was 100mg but gave 200 mg).,Documented as done,,Notifed receiving Trauma MD and Base Medical Manager,Medication dosing error (Protocols),Concentration error
+,June,11,2021,A,Air,Medication,Medication Error,Ketamine,,Patient given Ketamine 0.7 mg instead 0.07 mg. ,Not documented,Self extubation attempt,No adverse effect.,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,June,12,2021,C,Air,Medication,Missing medication,Ketamine,,Ketamine drip accidently thrown away before it was wasted.,,,,,
+,June,13,2021,D,Air,Medication,Other,Phenylephrine,Pitocin,Phenylephrine found in place where pitocin should be in medication bag.,,,,,
+,June,15,2021,E,Air,Medication,Other,Sodium Bicarbonate,Calcium Chloride,Sodium Bicarb par levels do not correspond to crush injury protocols.,,,,,
+,June,20,2021,A,Air,Medication,Medication Error,Etomidate,,125 kg patient. Etomidate 20 mg given instead of 0.3 mg/kg or 37.5 mg. ,Not documented,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,July,4,2021,A,Air,Medication,Medication Error,Ketamine,,Repeat dose of Ketamine given at 1 mg/kg instead of 0.5 mg/kg per protocol. ,Not documented,Combative patient,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,11,2021,C,Air,Medication,Medication Error,Ketamine,,Ketamine programmed as 500g/500ml instead of 500 mg/500ml on IV pump.,Documented as done,,No adverse effect.,IV Pump programming error,Concentration error
+,July,16,2021,A,Air,Medication,Adverse Effect,Versed,,Apnea after Versed 2 mg administration ,Not documented,,"Apnea, SPO2 67%, ETCO2 0. BVM, NPA. ",,
+,July,18,2021,E,Air,Medication,Medication Error,Ketamine,,Dosed Ketamine according to 200 kg instead of 200 lbs. 60 mg given x 2 instead 30 mg x 2. ,Not documented,Trauma,No adverse effect.,Medication dosing error (Protocols),Dosing error (pound/kg error)
+,July,18,2021,C,Air,Medication,No documentation,No Documentation,,,,,,,
+,July,18,2021,E,Air,Medication,Medication Error,D5W,D5Ns,D5W given instead of D5NS.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (D5W instead of D5NS)
+,July,18,2021,A,Air,Medication,Medication Error,Norepinephine,Epinephrine,Norepinephine drip administered to post cardiac arrest patient instead of intended Epinephrine drip.,Not documented,Cardiac arrest,Patient expired after resuscitative efforts terminated,Unintended Wrong Medication Given,Wrong Med (Norepinephrine instead of Epinephrine)
+,July,22,2021,A,Air,Medication,Medication Error,Ketamine,,Repeat dose of Ketamine was given at 70 mg instead of 35 mg. ,Documented as done,Combative patient,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,July,24,2021,D,Air,Medication,Other,Fentanyl,,Base is out of Fentanyl. Patient trasnport subsequently declined.,,,,,
+,July,30,2021,A,Air,Medication,Medication Error,Narcan,,Narcan administered as drip which was not in protocol.,Not documented,Respiratory distress/failure,Not documented,Protocol deviation,Medication use outside of protocols
+,August,2,2021,F,Ground,Medication,Medication Error,Versed,Fentanyl,Patient given Versed instead of Fentanyl.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Versed instead of Fentanyl)
+,August,8,2021,C,Air,Medication,Medication Error,Morphine,,Morphine 10 mg given instead of 2 mg. ,Documented as done,,No adverse affect,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,August,17,2021,D,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered to a patient who may be allergic to Fentanyl. ,Not documented,,Notified receiving physician,Medication Allergy Caution,Medication Allergy Caution
+,August,23,2021,A,Air,Medication,Medication Error,Amiodarone,,Amiodarone 300 mg given out of algorithm during patient code.,Not Documented,Cardiac arrest,Not documented,Protocol deviation,Protocol deviation
+,August,27,2021,E,Air,Medication,Medication Error,D5 1/2 Ns,Ns,D5 1/2 NS given instead of NS.,Not documented,,No adverse effect.,Unintended Wrong Medication Given,Wrong Med (D5 1/2 NS instead of NS)
+,August,30,2021,F,Ground,Medication,Medication Error,Atropine,,Atropine inadvertantly given for patient during cardiac arrest. ,Documented as not done,Cardiac arrest,Not documented,Protocol deviation,Medication use outside of protocols
+,September,1,2021,A,Air,Medication,Medication Error,Ketamine,,Pain dose for Ketamine given at sedation dose of 1 mg/kg x 3 doses.,Not documented,,No adverse effect,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,September,5,2021,A,Air,Medication,Other,Ketamine,Fentanyl,Ketamine drawn up instead of intended Fentanyl caught on medication cross check.,Documented as done.,,,,
+,September,5,2021,A,Air,Medication,Medication Error,Txa,,1 g of TXA was administered instead of 2 g.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,September,8,2021,E,Air,Medication,Other,Rocuronium,,Rocuronium given IO with no effect.,Not documented,,,,
+,September,8,2021,D,Air,Medication,Medication Waste,Fentanyl,,Fentanyl dose wasted.,,,,,
+,September,9,2021,D,Air,Medication,Other,Epinephrine,,Epinephrine in narcotic case instead of Compazine,,,,,
+,September,10,2021,D,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered to a patient who may be allergic to Fentanyl. ,Not documented,,No adverse effect. Notified receiving physician,Medication Allergy Caution,Medication Allergy Caution
+,September,12,2021,E,Air,Medication,Medication Error,Versed,,Expired Versed administered to patient. ,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,September,18,2021,E,Air,Medication,Other,3% Saline,,3% Saline rates in IV library differs from physician's requested rate,,,,,
+,September,22,2021,A,Air,Medication,Other,Succinylcholine,Rocuronium,Succinylcholine administered without effect (in date). Rocuronium administered with effect.,,,,,
+,October,9,2021,A,Air,Medication,Other,Txa,,Two TXA glass ampules shattered when opened during a patient flight. No injuries with this event.,,,,,
+,October,11,2021,D,Air,Medication,Other,Versed,,IV pump malfunction - patient received more medication than intended.,,,,,
+,October,14,2021,A,Air,Medication,Medication Error,Acteplase,,ICU staff initiated Acteplase at the wrong rate. Flight team continued the rate. ,Documented as not done,,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,October,22,2021,A,Air,Medication,Medication Error,Ketamine,,Ketamine 1 mg/kg given instead of the pain dose of 0.5 mg/kg.,Not documented,,No adverse effect.,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,October,28,2021,A,Air,Medication,Medication Error,Rocuronium,,Sub-therapeutic dose of Rocuronium given for intubation.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,November,1,2021,E,Air,Medication,Medication Error,Fentanyl,,Expired fentanyl adminstered to patient.,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,November,11,2021,F,Ground,Medication,Medication Error,Epinephrine,,Incorrect doses of Epinephrine given during pediatric cardiac arrest.,Not documented,Pediatric Cardiac arrest,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,November,15,2021,E,Air,Medication,Expired Medication,Morphine,,Expired Morphine in narcotic case.,,,,,
+,November,20,2021,E,Air,Medication,Medication Error,Versed,,Inadvertantly infused 100 mg of Versed over the course of an hour.,Documented as done,,Hypotension,IV Pump programming error,Dosing error (limit per kg exceeded)
+,November,23,2021,D,Air,Medication,Other,Rocuronium,,Rocuronium given IV with no effect.,,,,,
+,December ,1,2021,E,Air,Medication,Medication Error,Ketamine,,RSI dose of Ketamine given rather than sedation/analgesia dose. ,Documented as done,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,December ,1,2021,C,Air,Medication,Medication Error,Versed,,Versed medication error.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,December ,2,2021,A,Air,Medication,Medication Error,Ketamine,,Administered 100 mg of Ketamine to 97 kg patient per wrong protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,December ,6,2021,F,Ground,Medication,Medication Error,Morphine,Versed,Morphine 10 mg IM adminstered instead of Versed.,Not documented,Patient actively seizing,"Hospital informed, Supervisor informed.",Unintended Wrong Medication Given,Wrong Med (Morphine instead of Versed)
+,December ,11,2021,D,Air,Medication,Medication Error,Ketamine,,Ketamine administered at 3 mg/kg during RSI procedure instead of 2 mg/kg.,Documented as done,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,December ,11,2021,A,Air,Medication,Medication Error,Txa,,TXA administered to a patient after the 3 hour window from injury to administration. ,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,December ,13,2021,D,Air,Medication,Medication Error,Ketamine,,Intranasal Ketamine given outside of protocols.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,December ,14,2021,F,Ground,Medication,Medication Error,Versed,,Versed administered at 4 ml (20 mg) instead of 4 mg. ,Not documented,Combative patient,"Notified medical control, receiving physician",Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,December ,17,2021,D,Air,Medication,Medication Error,Epinephrine,,Epinephrine drip rate error.,Not documented,,Patient coded.,IV Pump programming error,Wrong medication programmed
+,December ,23,2021,E,Air,Medication,Other,Oxygen,,Went through multiple oxygen tanks.,,,,,
+,December ,26,2021,F,Ground,Medication,Medication Error,Amiodarone,,Amiodarone given to patient in atrail tachycardic rhythm. ,Not documented,,Heart rate decreased,Protocol deviation,Medication use outside of protocols
+,December ,26,2021,A,Air,Medication,Medication Error,Ketamine,,Ketamine 1 mg/kg given for analgesia instead of 0.5 mg/kg. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,December ,29,2021,F,Ground,Medication,Medication Error,Mucbst,,Paramedic gave a RN level drug (mucBst),Not documented,,Not documented,Protocol deviation,Protocol deviation
+,January,8,2022,E,Air,Medication,Medication Error,Not Documented,,Not documented,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,January,19,2022,F,Ground,Medication,Medication Error,Fentanyl,,Fentanyl dose based on pounds instead of kilograms resulting in a higher dose. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (pound/kg error)
+,January,20,2022,E,Air,Medication,Medication Error,Ketamine,,Crew administered Ketamine for sedation using pediatric dose. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,January,21,2022,F,Ground,Medication,Medication Error,Fentanyl,,Fentanyl infused over 12 minutes due to inputting the incorrect dosage on the IV pump.,Not documented,,"Hypotension, Fluid bolus given with stabilization",IV Pump programming error,Dosing error (limit per kg exceeded)
+,January,23,2022,D,Air,Medication,Other,Heparin,,Corrected Heparin drip infusion rate from sending 2.27 ml/hr to 25 ml/hr (1286 units/hr).,Documented as done,,,,
+,January,25,2022,F,Ground,Medication,Medication Error,D10,Ns,D10 given instead of Normal Saline. ,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (D10 instead of NS)
+,January,27,2022,F,Ground,Medication,Medication Error,Narcan,Epinephrine,Patient given Narcan 2 mg instead of Epinephrine during cardiac arrest. ,Not documented,Cardiac arrest,Patient arrived to hospital with ROSC,Unintended Wrong Medication Given,Wrong Med (Narcan instead of Epinephrine)
+,January,28,2022,E,Air,Medication,Medication Error,Ketamine,,Ketamine given ar 5 x the correct dose (thought concentration was 10 mg/ml instead 50 mg/ml). ,Not documented,Self extubation attempt,Reported to Medical Control and receiving hospital staff,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,February,8,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine drip administered at 1 mg/50 ml in D5 1/2 NS. ,Not documented,,Report to Receiving physician,IV Pump programming error,Concentration error
+,February,9,2022,F,Ground,Medication,Medication Error,Morphine,Versed,Morphine inadvertently administered when intended to administered Versed.,Not documented,Patient actively seizing,Hypotension,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Versed)
+,February,19,2022,D,Air,Medication,Medication Error,Calcium,Epinephrine,Calcium 40 mg given instead of the intended Epinephrine 40 mcg. ,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Calcium instead of Epinephrine)
+,February,21,2022,A,Air,Medication,Medication Error,Ketamine,,Allegation by patient's PCP that administration of Ketamine was patient's cause of death.,Not documented,,Not documented,Limited information,Limited information
+,February,24,2022,E,Air,Medication,Expired Medication,Ativan,,Expired Ativan in stock.,,,,,
+,February,25,2022,D,Air,Medication,Other,Nimbex,,IV pump lost power and stopped infusing Nimbex,,,,,
+,February,28,2022,D,Air,Medication,Other,Ketamine,,Patient put on Ketamine infusion.,,,,,
+,March,5,2022,E,Air,Medication,Medication Error,Ativan,,Ativan administered at 2 mg IV above max dose of 0.5 mg.,Not documented,Combative patient,No adverse effect,Medication dosing error (Protocols),Dosing error (protocol error)
+,March,9,2022,F,Ground,Medication,Medication Error,Ketamine,,161 mg of Ketamine administered instead of 116 mg.,Not documented,,No adverse effect,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,March,15,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine given as 3.75 ml instead of 37.5 kg.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,March,20,2022,C,Air,Medication,Other,Tpa,,TPA amount delivered was 48.8 ml instead of intended 71 ml.,Not documented,,No adverse effect,,
+,April,1,2022,D,Air,Medication,Other,Oxytocin,Phenylephrine,Oxytoxin vial where Phenylephrine vial should be.,,,,,
+,April,8,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 0.3 mg administered through IV instead of IM.,Not documented,,Headache ,Medication route error (Protocols),Route error (IV instead IM)
+,April,17,2022,C,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered at 100 ml/hr instead of 10 ml/hr (patient received 1000 mcg instead of 100 mcg),Not documented,,Not documented,IV Pump programming error,Rate Error
+,April,17,2022,F,Ground,Medication,Medication Error,Ketamine,,Ketamine 400 mg given instead of max dose of 328 mg per patient weight. May have contributed to patient arrest and death. ,Not documented,,"Stopped breathing, cardiac arrest, death due to anoxic brain injury",Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,April,18,2022,F,Ground,Medication,Medication Error,Dobutbne,Dopbne,DobutBne given as DopBne dose in IV pump PTA.,Not documented,,No adverse effect,IV Pump programming error,Wrong medication programmed
+,April,18,2022,D,Air,Medication,Medication Error,Not Documented,,No documentation,Documented as done,Pediatric trauma,Brief period of apnea but SpO2 in the 90s. ,Medication dosing error (Protocols),Dosing error (general)
+,April,20,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 0.5 mg 1:1000 given IV instead of IM,Not documented,Anaphylaxis,"Tachycardia, headache, but improved from anaphylaxis",Medication route error (Protocols),Route error (IV instead IM)
+,April,21,2022,A,Air,Medication,Narcotic Log,Fentanyl,,Unwitnessed waste/lost dosage of Fentanyl 10 mcg,,,,,
+,April,25,2022,F,Ground,Medication,Narcotic Log,Morphine,,Controlled substance diversion by provider,,,,,
+,April,29,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine 1 mg/kg given for pain management instead 0.5 mg/kg.,Documented as done,Combative patient,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,April,30,2022,E,Air,Medication,Adverse Effect,Ketamine,,Apnea post Ketamine administration (48.8 mg),Not documented,,,,
+,May,4,2022,C,Air,Medication,Other,Acetylcysteine,,Delay of departure from facilty due to rules from pharmacy about taking hospital meds needed for patient care.,,,,,
+,May,5,2022,D,Air,Medication,Medication Error,Hydralazine,,Hydralazine administered outside of protocol.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,May,5,2022,F,Ground,Medication,Medication Error,Fentanyl,,Patient administered 100 mcg of Fentanyl instead of 37.4 mg (per protocol).,Not documented,,"Apnea, BVM with spontaeous respirations",Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,May,8,2022,D,Air,Medication,Narcotic Log,Versed,,Broken packaging on one Versed vial.,,,,,
+,May,8,2022,E,Air,Medication,Other,Versed,,Unable to program physician requested dosage on IV pump.,,,,,
+,May,17,2022,D,Air,Medication,Medication Error,Ketamine,,Ketamine 18 mg administered instead of intended 180 mg. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,May,18,2022,E,Air,Medication,Medication Error,Rocuronium,,Rocuronium 200 mg administered beyond max dose per protocol. ,Documented as done,,Report to Medical Control and Regional Clinical Educator. ,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,May,19,2022,C,Air,Medication,Medication Error,Propofol,,Profofol programed as 1000 mcg/100 ml instead of 1000 mg/100 ml.,Not documented,,Receiving notified,IV Pump programming error,Concentration error
+,May,19,2022,C,Air,Medication,Medication Error,Propofol,,Profofol programed as 1000 mcg/100 ml instead of 1000 mg/100 ml.,Not documented,,Not documented,IV Pump programming error,Concentration error
+,May,24,2022,F,Ground,Medication,Medication Error,Versed,Morphine,Versed administerd instead of intended Morphine,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Versed instead of Morphine)
+,May,28,2022,E,Air,Medication,Medication Error,Not Documented,,Medication error during RSI procedure,Documented as done,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,May,28,2022,C,Air,Medication,Other,Diluadid,,Dilaudid vial broken.,,,,,
+,June,1,2022,E,Air,Medication,Expired Medication,Ketamine,,Expired Ketamine in stock.,,,,,
+,June,3,2022,E,Air,Medication,Other,Dopbne,,DopBne inner bag leaking into outer bag.,,,,,
+,June,5,2022,F,Ground,Medication,Medication Error,Etomidate,,Etomidate 50 mg adminsterd instead of 20 mg authorized 20 mg. Dosing mistakingly dosed as Rocuronium (0.6-1.2 mg/kg).,Not documented,,Not documented,Medication dosing error (Protocols),Calculation error 
+,June,10,2022,F,Ground,Medication,Medication Error,Not Documented,,Incorrect paralytic dose administered during DSI.,Not documented,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,June,14,2022,D,Air,Medication,Medication Error,Fentanyl,,Fentanyl given at 2 mcg/kg on intial analgesic dose instead of 1 mcg/kg.,Documented as done,,"Shallow respirations, Narcan administered",Medication dosing error (Protocols),Dosing error (protocol error)
+,June,21,2022,A,Air,Medication,Medication Error,Txa,,Second dose of TXA at the loading dose rate.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,June,21,2022,F,Ground,Medication,Medication Error,Versed,,Versed administed IV at the IM dose. Dose administered 0.2 mg/kg (2.4 mg) instead 0.1 mg/kg ,Not documented,Patient actively seizing,Not documented,Medication route error (Protocols),Route error (IV instead IM)
+,June,22,2022,F,Ground,Medication,Medication Error,Epinephrine,,5 doses of Epinephrine (1:10000) 5 mg IV given during pediatric cardiac arrest instead of 0.5 mg (5 kg patient at 0.1 mg/kg),Not documented,Pediatric Cardiac arrest,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,June,25,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine administered every 5 minutes instead of every 10 minutes per protocol. ,Not documented,,Medical Control contacted,Protocol deviation,Medication use outside of protocols
+,June,25,2022,F,Ground,Medication,Medication Error,Fentanyl,Versed,Fentanyl given instead of intended Versed.,Not documented,Patient actively seizing,Reported to receiving,Unintended Wrong Medication Given,Wrong Med (Fentanyl instead of Versed)
+,June,27,2022,C,Air,Medication,Narcotic Log,Versed,,Unopened box of Versed stock discovered in narcotic loack box. Counts were off in the books.,,,,,
+,June,28,2022,D,Air,Medication,Medication Error,Fentanyl,,Sapphire pump programmed at 27.5 ml/hr instead of 50 mcg/hr.,Documented as done,,Reported to Medical Control and BMM,IV Pump programming error,Rate Error
+,July,3,2022,E,Air,Medication,Medication Error,Epinephrine,,Incorrect dose of push dose Epinephrine given (0.5 mg),Documented as not done,Bradycardia,No adverse effect,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,July,4,2022,E,Air,Medication,Medication Error,Versed,,Incorrect rate of Versed infusion programmed into pump resulting in hypotension.,Not documented,,"Hypotension, corrected with IV bolus and DopBne, Receiving physician notified",IV Pump programming error,Rate Error
+,July,7,2022,E,Air,Medication,Medication Error,Keppra,,Keppra 500 mg IVPB given instead of insteaded 1 g.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,July,8,2022,F,Ground,Medication,Medication Error,Not Documented,,"""wrong medication and treatment given to patient""",Not documented,,Not documented,Limited information,Limited information
+,July,13,2022,D,Air,Medication,Medication Error,Rocuronium,,Rocuronium 10 mg given insteaded of intended 100 mg.,Not documented,RSI procedure,Gagging on intubation attempt,Medication dosing error (Protocols),Dosing error (underdosed)
+,July,13,2022,D,Air,Medication,Medication Error,Lidocaine,,Lidocaine given during pre-induction. Lidocaine no longer in pre-induction protocols.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,July,13,2022,D,Air,Medication,Other,Cardene,,Unlabelled medication infusing from sending. Flight crew discontinued drip.,,,,,
+,July,16,2022,F,Ground,Medication,Medication Error,Versed,,Seizing patient given Versed 10 mg instead 5 mg. Ventilatory support required.,Not documented,,Not documented,Medication dosing error (Protocols),Concentration error
+,July,23,2022,A,Air,Medication,Medication Error,Fentanyl,,"Fentanyl 100 mcg given based upon estimated with of 100 kg. At receiveing, patient weighed 77 kg. ",Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,July,24,2022,C,Air,Medication,Medication Error,Ketamine,,Ketamine underdosed due to mistake in mixing concentration.,Not documented,,Not documented,IV Pump programming error,Concentration error
+,July,26,2022,F,Ground,Medication,Medication Error,Morphine,,Morphine administration error.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,July,30,2022,D,Air,Medication,Other,Cardene,,Trauma surgeon questioned head injury protocols.,,,,,
+,August,1,2022,E,Air,Medication,Medication Error,Norepinephine,Fentanyl,Norepinephrine drip infused instead of intended Fentanyl.,Documented as done,,No adverse effect,Unintended Wrong Medication Given,Wrong Med (Norepinephrine instead of Fentanyl)
+,August,4,2022,F,Ground,Medication,Medication Error,Versed,Fentanyl,Versed administered instead of intended Fentanyl.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Versed instead of Fentanyl)
+,August,7,2022,D,Air,Medication,Adverse Effect,Dobutbne,,Hypotension post DobuatBne infusion.,,,,,
+,August,9,2022,F,Ground,Medication,Other,Fentanyl,,Broke Fentanyl vial after dropping narcotic case.,,,,,
+,August,10,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine underdosed due to ml/mg error.,Not documented,,Not documented,Medication dosing error (Protocols),Calculation error 
+,August,10,2022,A,Air,Medication,Medication Error,Succinylcholine,,260 mg administerd despite max dose per protocol of 200 mg. ,Not documented,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,August,12,2022,F,Ground,Medication,Medication Error,Adenosine,,Adenosine administered outside protocols.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,August,15,2022,F,Ground,Medication,Medication Error,Versed,,Versed 10 mg administered instead of intended 5 mg. ,Not documented,,No adverse effect,Medication dosing error (Protocols),Concentration error
+,August,18,2022,D,Air,Medication,Medication Error,Fentanyl,,Fentanyl drip concentration error.,Documented as done,,Not documented,IV Pump programming error,Concentration error
+,August,23,2022,E,Air,Medication,Medication Error,D5Ns,Ns,D5NS 500 ml bolus given instead of intended NS. ,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (D5NS instead of NS)
+,August,23,2022,A,Air,Medication,Medication Error,Versed,,Expired Versed administered to a patient.,Not documented,,No adverse effect,Expired medications administered,Expired medications administered
+,August,24,2022,C,Air,Medication,Other,Heparin,,Heparin drip calculation not in IV pump library.,,,,,
+,August,25,2022,E,Air,Medication,Medication Error,Adenosine,,Initial dose of Adenosine administered at 12 mg instead of 6 mg per protocol. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,August,26,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 0.1 mg administered push dose instead of 0.01 per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Concentration error
+,August,26,2022,E,Air,Medication,Missing medication,Fentanyl,,Missing Fentanyl vial to waste.,,,,,
+,August,29,2022,C,Air,Medication,Other,Fentanyl,,Two broken Fentanyl ampules in narcotic box at shift change.,,,,,
+,August,29,2022,F,Ground,Medication,Medication Error,Fentanyl,,Fentanyl 50 mcg administered instead of intended 32 mcg.,Not documented,Pediatric trauma,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,August,30,2022,F,Ground,Medication,Medication Error,Versed,,Expired Versed administered to patient.,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,September,1,2022,F,Ground,Medication,Medication Error,Epinephrine,,Incorrect dose of Epinephrine given for anaphylactic reaction.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,September,1,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine (1:1000) 1 mg IM instead of intended 0.3 mg.,Documented as not done,Anaphylaxis,No adverse effects,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,September,2,2022,F,Ground,Medication,Medication Error,Amiodarone,,"Amiodarone 150 mg given rapid IVP, followed by Amiodarone 300 mg given rapid IV push.",Not documented,,No adverse effects,Protocol deviation,Medication use outside of protocols
+,September,3,2022,D,Air,Medication,Expired Medication,Ativan,,Expired Ativan in stock.,Documented as done.,,,,
+,September,3,2022,C,Air,Medication,Medication Error,D5Lr,,Excessive fluid administered to patient with CHF diagnosis.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,September,4,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine (1:1000) 0.1 mg administered instead of intended 0.08 mg.,Not documented,Pediatric Cardiac arrest,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,September,4,2022,F,Ground,Medication,Medication Error,Versed,Morphine,Versed administered instead of intended Morphine.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Versed instead of Morphine)
+,September,7,2022,E,Air,Medication,Other,Propofol,Versed,Incorrect dosage based upon incorrect weight entered in to IV Pump by sending nurse. Flight crew caught the error.,Documented as done.,,,,
+,September,12,2022,A,Air,Medication,Other,Succinylcholine,Etomidate,Succinylcholine and Etomidate administered IV with no effect. Suspect IV filtration.,,,,,
+,September,16,2022,F,Ground,Medication,Medication Error,Cardene,Esmolol,Paramedic trasnported medications beyond their scope of practice. Cardene infusion and Esmolol infusion.,,,,,
+,September,18,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine 60 mg (1 mg/kg) given x 2. Protocol states second and subsequent doses should be half the original.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,September,20,2022,F,Ground,Medication,Other,Cardene,,Crew was dispatched to a facilty for a patient with a Cardene infusion which is CCT beyond their scope.,,,,,
+,September,21,2022,F,Ground,Medication,Medication Error,Vasopressin,Norepinephrine,Vasopressin and Norepinephrine drips transposed on pump administering incorrect dosages. ,Not documented,,No adverse effects,IV Pump programming error,Wrong medication programmed
+,September,22,2022,A,Air,Medication,Other,Succinylcholine,Rocuronium,Potential for Succinylcholine and Rocuronium mix up.,,,,,
+,September,23,2022,F,Ground,Medication,Medication Error,Ketamine,,Ketamine 0.5 mg/kg given IV instead of intended IM.,Documented as done,,Not documented,Medication route error (Protocols),Route error (IV instead IM)
+,September,25,2022,F,Ground,Medication,Medication Error,Epinephrine,,Patient treated with Epinephrine despite stated allergy to sympathomimetics.,Documented as done,,"Patient coded, ROSC, pacing",Medication Allergy Caution,Medication Allergy Caution
+,September,25,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine not mixed from 1:1000 during cardiac arrest. No epinephrine given. ,Not documented,Cardiac arrest,Not documented,Protocol deviation,Medication use outside of protocols
+,September,26,2022,D,Air,Medication,Medication Error,Txa,,TXA 2 grams given knowing it was a protocol deviation.,Not documented,,No adverse effects,Protocol deviation,Protocol deviation
+,September,28,2022,E,Air,Medication,Medication Error,Heparin,,Heparin programmed at 12500 units/250 ml instead of intended 25000 units/250 ml.,Not documented,,Not documented,IV Pump programming error,Concentration error
+,September,28,2022,F,Ground,Medication,Medication Error,Versed,,Versed 10 mg x 2 given instead of intended Versed 5 mg x 2 for sezing patient. ,Not documented,,Not documented,Medication dosing error (Protocols),Concentration error
+,October,3,2022,F,Ground,Medication,Medication Error,Epinephrine,Zofran,Epinephrine 1:1000 IV administered instead of intended Zofran.,Not documented,,"Increased BP and HR, Receiving physician notified",Unintended Wrong Medication Given,Wrong Med (Epinehrine 1:1000 instead of Zofran)
+,October,3,2022,F,Ground,Medication,Other,Epinephrine,,Potential medication error by Fire Department personnel. ,,,,,
+,October,5,2022,F,Ground,Medication,Medication Error,Ketamine,,Ketamine 25 mg IV given x 5 doses for 22.2 kg patient. Patient received 11 mg more than protocol instuct to give. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,October,6,2022,D,Air,Medication,Medication Error,Lovenox,,Administered SQ Lovenox and not IV portion of the dose. ,Not documented,,Not documented,Medication route error (Protocols),Route error (Protocol)
+,October,11,2022,D,Air,Medication,Medication Error,Ketamine,,Ketamine 1 mg/kg IV administered for analgesia instead of 0.5 mg/kg per protocol.,Documented as done,,Intubation required to secure airway,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,October,11,2022,D,Air,Medication,Medication Error,Lovenox,,Lovenox 90 mg IV administered instead of 30 mg IV and 60 mg SQ per protocol. ,Not documented,,Not documented,Medication route error (Protocols),Route error (Protocol)
+,October,12,2022,C,Air,Medication,Other,Fentanyl,,Fentanyl dose reaffirmed during medication cross check.,,,,,
+,October,20,2022,D,Air,Medication,Medication Error,Lr,Ns,Blood tubing flushed with LR instead of NS.,Not documented,,No adverse effects,Unintended Wrong Medication Given,Wrong Med (LR instead of NS)
+,October,20,2022,A,Air,Medication,Medication Error,Versed,,Versed 7.5 mg (0.05 mg/kg x 150 kg) IV administered when 5 mg is max dose per protocols. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,October,21,2022,E,Air,Medication,Other ,Cardene,,Cardene programmed for 15 mg/day instead mg/hr by sending hospital. Flight crew caught the error.,,,,,
+,October,21,2022,C,Air,Medication,Missing medication,Ketamine,,Ketamine left at sending.,,,,,
+,October,24,2022,A,Air,Medication,Other,Levophed,,Torn Levophed infusion bag.,,,,,
+,October,24,2022,A,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered after miscommunication.,Documented as done,,No adverse effects,,
+,October,29,2022,C,Air,Medication,Medication Error,Fentanyl,,Fentanyl concentration 100 mcg/100 ml instead of intended 1000 mcg/100 ml (Patient received 600 mcg over 45 minutes).,Not documented,,No adverse effects,IV Pump programming error,Concentration error
+,November,1,2022,F,Ground,Medication,Medication Error,Fentanyl,Versed,Fentanyl administered instead of intended Versed.,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Fentanyl instead of Versed)
+,November,2,2022,F,Ground,Medication,Medication Error,Adenosine,Amiodarone,Adenosine administered instead of intneded Amiodarone during patient arrest.,Not documented,Cardiac arrest,Not documented,Unintended Wrong Medication Given,Wrong Med (Adenosine instead of Amiodarone)
+,November,2,2022,D,Air,Medication,Medication Error,Epinephrine,,Epinephrine 1 mg (1:10000) administered as push dose.,Documented as not done,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,November,6,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine 100 mg administered instead 55 mg (0.5 mg/kg per protocol.,Documented as done,,"Apnea, BVM, Narcan, spontaneous respirations",Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,November,8,2022,F,Ground,Medication,Medication Error,Atropine,,Atropine administered outside of Bradycardia protocols.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,November,9,2022,F,Ground,Medication,Medication Error,Protonix,,AEMT transferred a patient on a Protonix drip which was outside of their scope.,Not documented,,,Protocol deviation,Medication use outside of protocols
+,November,12,2022,C,Air,Medication,Other,Versed,,Versed cap popped during narcotic count.,,,,,
+,November,12,2022,E,Air,Medication,Medication Error,Lasix,,Lasix administered via pump at 10 times the ordered amount.,Not documented,,Not documented,IV Pump programming error,Rate Error
+,November,13,2022,F,Ground,Medication,Other,Versed,,Received order to administer Versed 5 mg when protocol dose is 1 mg.,,,,,
+,November,14,2022,F,Ground,Medication,Medication Error,Versed,,Versed 5 mg IV x 2 administered instead of 2.5 mg per protocol. ,Not documented,Patient actively seizing,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,November,15,2022,D,Air,Medication,Medication Error,Ketamine,,Ketamine 20 mg IV administered instead of inteneded 200 mg IV (misread label),Documented as done,RSI procedure,Not documented,Medication dosing error (Protocols),Concentration error
+,November,18,2022,F,Ground,Medication,Medication Error,Insulin,,Insulin administered at incorrect rate.,Documented as done,,"Blood sugar dropped to 175, D10 administered",IV Pump programming error,Rate error
+,November,18,2022,D,Air,Medication,Adverse Effect,Ativan,,"Ativan 0.5 mg IV administered, 10 minutes later patient arrested.",,,,,
+,November,20,2022,F,Ground,Medication,Medication Error,Epinephrine,Calcium Gluconate,Epinephrine diluted with Calcium Gluconate instead of NS flush. Epinephine 1 mg/Calcium Gluconate 900 mg administered.,Not documented,Cardiac arrest,Not documented,Unintended Wrong Medication Given,Wrong Med (Epinephrine diluted in Calcium Gluconate instead of NS)
+,November,23,2022,F,Ground,Medication,Medication Error,Rocuronium,,Rocuronium underdosed due to miscalculation.,Not documented,,Not documented,Medication dosing error (Protocols),Calculation error 
+,November,25,2022,F,Ground,Medication,Medication Error,Lidocaine,Narcan,Lidocaine administered instead of intended Narcan.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Lidocaine instead of Narcan)
+,November,25,2022,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 1:1000 used to make push dose Epinephrine instead of 1:10000.,Not documented,,No adverse effects,Medication dosing error (Protocols),Concentration error
+,November,26,2022,C,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered at concetration of 100 mcg/100 ml instead of 1000 mcg/100 ml,Not documented,,"Medical Control, admin, receiving facilty notified",IV Pump programming error,Concentration error
+,December ,2,2022,E,Air,Medication,Expired Medication,Esmolol,,Expired Esmolol in stock.,,,,,
+,December ,3,2022,D,Air,Medication,Medication Error,Adenosine,,Adenosine 12 mg administered outside of protocol.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,December ,3,2022,F,Ground,Medication,Adverse Effect,Ketamine,,Respiratory depression and hypoxia following Ketamine 15 mg IV.,,,,,
+,December ,4,2022,A,Air,Medication,Medication Error,Succinylcholine,,Succinylcholine given outside of protocols.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,December ,5,2022,D,Air,Medication,Other,Ketamine,,Ketamine broken in narcotic case.,,,,,
+,December ,8,2022,F,Ground,Medication,Medication Error,Ns,,EMT-B monitoring a NS drip outside of scope.,Not documented,,,Protocol deviation,Protocol deviation
+,December ,10,2022,C,Air,Medication,Narcotic Log,Fentanyl,,Narcotic log miscount.,,,,,
+,December ,11,2022,F,Ground,Medication,Medication Error,Geodon,,Geodon given IV instead of IM.,Not documented,,Not documented,Medication route error (Protocols),Route error (IV instead IM)
+,December ,17,2022,A,Air,Medication,Medication Error,Ketamine,,Patient given Ketamine for post intubation sedation outside of protocol direction.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,December ,18,2022,A,Air,Medication,Medication Error,Propofol,,Propofol adminsitered at 80 mcg/kg/min instead of max dose of 75 mcg/kg/min per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,December ,18,2022,A,Air,Medication,Medication Error,Propofol,,Propofol adminsitered at 80 mg/kg/min instead of 80 mcg/kg/min per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,December ,19,2022,F,Ground,Medication,Medication Error,D10,Ns,D10 (100 ml) administered instead of intended NS.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (D10 instead of NS)
+,December ,20,2022,F,Ground,Medication,Medication Error,Ketamine,,Ketamine given to pediatric patient outside of protocol guidelienes.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,December ,22,2022,F,Ground,Medication,Medication Error,Fentanyl,Versed,Fentanyl IN administered instead of intended Versed.,Not documented,Patient actively seizing,No adverse effects,Unintended Wrong Medication Given,Wrong Med (Fentanyl instead of Versed)
+,December ,23,2022,A,Air,Medication,Medication Error,Ketamine,,Ketamine given at wrong dose for analgesia per protocol.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,December ,29,2022,E,Air,Medication,Other,Labetolol,,Safety cap of Labetolol missing.,,,,,
+,December ,29,2022,E,Air,Medication,Other,Cardene,,Safety cap of Cardene missing.,,,,,
+,January,2,2023,F,Ground,Medication,Medication Error,Versed,,Versed 5 mg administered instead of intended 1 mg. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,January,3,2023,C,Air,Medication,Other,Nifedipine,,Nifedipine IVPB disposed.,,,,,
+,January,5,2023,F,Ground,Medication,Medication Error,Labetolol,Metoprolol,Metoprolol 5 mg administered instead of intended Labetolol 10 mg.,Not documented,,ED notified,Unintended Wrong Medication Given,Wrong Med (Metoprolol instead of Labetolol)
+,January,5,2023,D,Air,Medication,Medication Error,Heparin,,Heparin administered to STEMI patient involved in trauma. ,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,January,6,2023,F,Ground,Medication,Medication Error,Versed,,Versed 5 mg administered to 14 kg patient.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,January,8,2023,F,Ground,Medication,Medication Error,Txa,,TXA administered outside of protocol direction.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,January,9,2023,F,Ground,Medication,Medication Error,Morphine,,Morphine given to a patient with an allergy to Morphine.,Not documented,,Bendryl given at receiving facility,Medication Allergy Caution,Medication Allergy Caution
+,January,14,2023,D,Air,Medication,Medication Error,Epinephrine,,Epinephrine drip infusing without going through an IV pump.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,January,15,2023,C,Air,Medication,Other,Fentanyl,,Broken Fentanyl vial,,,,,
+,January,15,2023,A,Air,Medication,Medication Error,Ketamine,,Ketamine 1 mg/kg adminstered for analgesia dose.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,January,16,2023,E,Air,Medication,Other,Epinephrine,,Epinephrine cap displaced.,,,,,
+,January,17,2023,E,Air,Medication,Medication Error,Fentanyl,,Fentanyl concentration 100 mcg/250 ml administered instead of intended 1000 mcg/250 ml (patient received 300 mcg more than intended).,Not documented,,No adverse effects,IV Pump programming error,Concentration error
+,January,23,2023,F,Ground,Medication,Medication Error,Ketamine,,Excessive Ketamine dosage (160 mg),Not documented,,"BVM ventilation, NPA inserted",Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,January,25,2023,D,Air,Medication,Medication Error,Heparin,,Heparin 25000 units/250 ml administered instead of intended 25000 units/500 ml.,Not documented,,Not documented,IV Pump programming error,Concentration error
+,January,27,2023,F,Ground,Medication,Medication Error,Versed,,Versed 1 mg adninistered when actual dose should have been 5.6 mg (0.2 mg/kg x 28 kg),Not documented,Patient actively seizing,Receiving notified,Medication dosing error (Protocols),Dosing error (underdosed)
+,January,27,2023,F,Ground,Medication,Medication Error,Zofran,,AEMT gave Zofran outside of scope.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,January,27,2023,F,Ground,Medication,Medication Error,Lidocaine,,Second dose of Lidocaine administered at 100 mg instead of 50 mg per protocols.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,January,29,2023,A,Air,Medication,Medication Error,Etomidate,,Etomidate dosed at 60 kg instead of 80 kg.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,February,5,2023,D,Air,Medication,Medication Error,Keppra,,Keppra administered at 2 mg/kg instead of 15 mg/kg per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,February,6,2023,E,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered at 100 ml/hr instead of intended 10 ml/hr (Total Fentanyl infused was 2200 mcg).,Not documented,,Receiving notified,IV Pump programming error,Rate error
+,February,7,2023,F,Ground,Medication,Medication Error,Versed,,Versed 10 mg administered instead of intended 5 mg.,Not documented,,Not documented,Medication dosing error (Protocols),Concentration error
+,February,8,2023,F,Ground,Medication,Medication Error,Amiodarone,Adenosine,Amiodarone administered for SVT instead of Adenosine.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Amiodarone instead of Adenosine)
+,February,15,2023,A,Air,Medication,Medication Error,Fentanyl,,Fentanyl drip dosage error.,Not documented,,"Hypotension, Narcan",IV Pump programming error,Dosing error
+,February,17,2023,F,Ground,Medication,Medication Error,Magnesium Sulfate,Zofran,Magnesium Sulfate administered instead of intended Zofran.,Not documented,,No adverse effects,Unintended Wrong Medication Given,Wrong Med (Magnesium Sulfate instead of Zofran)
+,February,17,2023,E,Air,Medication,Expired Medication,Ativan,,Expired Ativan found in narcotic case.,,,,,
+,February,18,2023,F,Ground,Medication,Medication Error,Fentanyl,,Fentanyl administered to a patient who has an allergy to Fentanyl.,Not documented,,No adverse effects,Medication Allergy Caution,Medication Allergy Caution
+,February,24,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine administered through nebulized route which is outside of protocol.,Not documented,,Receiving notified,Medication route error (Protocols),Route error (Protocol)
+,March,3,2023,D,Air,Medication,Medication Error,Ketamine,,Ketamine 2 mg/kg was administered for analgesia.,Documented as done,Pediatric trauma ,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,March,5,2023,C,Air,Medication,Other,Rocuronium,,Rocuronium out of stock with no replacement available in stock.,,,,,
+,March,6,2023,F,Ground,Medication,Medication Error,Benadryl,,Benadryl 50 mg IM administered instead of 13 mg per protocol.,Not documented,,Receiving notified,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,March,14,2023,E,Air,Medication,Medication Error,Fentanyl,,Fentanyl adminstered at 100 ml/hr instead of intended 2 ml/hr.,Documented as done,,"Hypotension, push dose Epinephrine, DopBne",IV Pump programming error,Concentration error
+,March,15,2023,F,Ground,Medication,Medication Error,Ketamine,Epinephrine,Ketemine and Epinephrine administered at higher doses than calculated.,Not documented,RSI procedure,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,March,16,2023,F,Ground,Medication,Medication Error,Lidocaine,Narcan,Lidocaine IN administered instead of intended Narcan.,Not documented,Combative patient,No adverse effects. Receiving notified,Unintended Wrong Medication Given,Wrong Med (Lidocaine instead of Narcan)
+,March,17,2023,F,Ground,Medication,Medication Error,Morphine,Valium,Morphine administered instead of intended Valium.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Valuim)
+,March,21,2023,F,Ground,Medication,Medication Error,Fentanyl,Morphine,Fentanyl administered instead of intended Morphine.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,March,23,2023,E,Air,Medication,Medication Error,Epinephrine,,Epinephrine drip programmed at incorrect concentration causing dosage outside of protocols.,Not documented,Na,Not documented,IV Pump programming error,Concentration error
+,March,25,2023,D,Air,Medication,Other,Epinephrine,,IV pump drug library does not have standard concentration of Epinephrine infusion.,,,,,
+,March,28,2023,F,Ground,Medication,Medication Error,D10,Ns,D10 (50 ml) administered instead of intended NS.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (D10 instead of NS)
+,March,29,2023,F,Ground,Medication,Medication Error,Ketamine,,Ketamine 100 mg administered instead of 25 mg per protocol.,Not documented,,Receiving notified,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,March,29,2023,C,Air,Medication,Other,Heparin,,Patient received more than prescribed dose of Heparin due to IV pump unlatching.,,,,,
+,April,1,2023,A,Air,Medication,Other,Fentanyl,,A partial vial of Fentanyl lost during transport.,,,,,
+,April,5,2023,F,Ground,Medication,Medication Error,Ketamine,,Ketamine 25 mg x 3 doses given over 23 minute period.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,April,5,2023,C,Air,Medication,Medication Error,Ativan,,Ativan 1 mg IM x 2 administered to 3 year old patient.,Not documented,,Not documented,Medication route error (Protocols),Route error (Protocol)
+,April,8,2023,C,Air,Medication,Other,Heparin,,Facilty had Heparin running at wrong rate when flight crew arrived at bedside.,,,,,
+,April,10,2023,E,Air,Medication,Other,Nifedipine,,All Nifedipine capsules melted.,,,,,
+,April,14,2023,C,Air,Medication,Narcotic Log,Versed,,Versed in the narc box is not the same concentration listed on the narc count log.,,,,,
+,April,19,2023,E,Air,Medication,Other,Ketamine,,Unattended Ketamine vial left in ambulance after busy trauma patient. Returned to clinical crew.,,,,,
+,April,21,2023,A,Air,Medication,Medication Error,Calcium,,Calcium Gluconate administered for misread lab value.,Documented as done,,Not documented,Other,Lab interpretation error
+,April,21,2023,F,Ground,Medication,Medication Error,Atropine,,Atropine given to patient in PEA rhythm outside of PEA guidelines.,Not documented,,,Protocol deviation,Medication use outside of protocols
+,April,23,2023,E,Air,Medication,Other,Versed,,Partial vial of Versed left in ambulance.,,,,,
+,April,24,2023,C,Air,Medication,Other,Versed,,Damaged Versed vials in narcotic box.,,,,,
+,April,29,2023,C,Air,Medication,Medication Error,Ocreotide,,Ocreotide administered at 50 ml/hr instead of 2.5 ml/hr.,Not documented,,Not documented,IV Pump programming error,Rate error
+,April,29,2023,F,Ground,Medication,Medication Error,Fentanyl,,Fentanyl 50 mcg administered instead of 34 mcg (0.5 mcg/kg),Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,April,30,2023,E,Air,Medication,Other,Dopbne,,DopBne (premix) in fluid cell found to have condensation internaly.,,,,,
+,April,30,2023,F,Ground,Medication,Medication Error,Fentanyl,,"""Med administration error of Fentanyl… too much was given to patient"".",Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,May,1,2023,E,Air,Medication,Medication Error,Fentanyl,,Fentanyl concentration of 500 mcg/100 ml administered instead of dosages based upon intended 1000 mcg/100 ml.,Not documented,,Not documented,IV Pump programming error,Concentration error
+,May,13,2023,A,Air,Medication,Medication Error,Txa,,TXA 1 g administered instead of 2 g per protocol. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,May,14,2023,F,Ground,Medication,Medication Error,Fentanyl,Versed,Fentanyl 100 mcg administered instead of intended Versed 5 mg.,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Fentanyl instead of Versed)
+,May,16,2023,D,Air,Medication,Medication Error,Versed,,Versed administered at 35 mg/hr instead of intended 10 mg/hr. ,Documented as done,,Not documented,IV Pump programming error,Concentration error
+,May,17,2023,F,Ground,Medication,Medication Error,Morphine,Versed,Morphine 1 mg administered instead of intended Versed 1 mg.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Versed)
+,May,20,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 0.85 mg IM given instead of 0.3 mg. Dose error due to misreading Broslow tape ET dose as IM dose.,Not documented,Anaphylaxis,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,May,21,2023,A,Air,Medication,Medication Error,Norepinephine,,Norepinephrine drip concentration infused as 4 mg/250 ml instead of actual 16mg/250 ml.,Documented as done,,Not documented,IV Pump programming error,Concentration error
+,May,22,2023,D,Air,Medication,Ketamine,Fentanyl,,Unintentional narcotic waste after IV line because disconnected.,,,,,
+,May,23,2023,F,Ground,Medication,Medication Error,Lidocaine,,Lidocaine 100 mg IO administered for pain control post IO insertion.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,May,28,2023,F,Ground,Medication,Medication Error,Cardizem,,Cardizem 2 mg administered instead of intended 20 mg.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,May,30,2023,E,Air,Medication,Medication Error,Versed,,Versed 1 mg IV administered instead of intended 2 mg. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,June,1,2023,A,Air,Medication,Medication Error,Fentanyl,,Fentanyl administered to a patient with allergy to Oxycodone.,Not documented,,No adverse effects.,Medication Allergy Caution,Medication Allergy Caution
+,June,3,2023,C,Air,Medication,Other,Fentanyl,,Broken vial of Fentanyl found in narcotic box.,,,,,
+,June,3,2023,A,Air,Medication,Medication Error,Succinylcholine,,Succinylcholine 1.5 mg/kg administered instead of 1 mg/kg per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,June,13,2023,D,Air,Medication,Adverse Effect,Fentanyl,,Desaturation after Fentanyl administration.,Not documented,,Desatruation. Patient placed on O2 4L with SPO2 returned to 100%.,,
+,June,14,2023,E,Air,Medication,Medication Error,Ofirmev,,Ofirmev 1 g administered instead of intended 450 mg.,Not documented,,Receiving notified,IV Pump programming error,Dosing error (limit per kg exceeded)
+,June,15,2023,F,Ground,Medication,Medication Error,Zofran,Amiodarone,Zofran 8 mg administered instead of Amiodarone 300 mg during patient arrest. ,Not documented,Cardiac arrest,Not documented,Unintended Wrong Medication Given,Wrong Med (Zofran instead of Amiodarone)
+,June,17,2023,A,Air,Medication,Medication Error,Ketamine,,Ketamine 25 mg IV administered despite max dose of 20 mg per protocol.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,June,18,2023,D,Air,Medication,Near miss,Fentanyl,Zofran,Zofran intended but Fentanyl drawn up. Caught on cross check.,Documented as done,,Not documented,Near miss,Near miss
+,June,18,2023,A,Air,Medication,Medication Error,Not Documented,,"""gave more than the max dose of medication"".",Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,June,19,2023,C,Air,Medication,Medication Error,Norepinephine,,Weight mased dose administered instead of minute dose.,Not documented,,Not documented,Medication dosing error (Protocols),Concentration error
+,June,22,2023,F,Ground,Medication,Medication Error,Versed,,Versed 10 mg IV administered instead of intended 5 mg. ,Not documented,Patient actively seizing,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,June,30,2023,F,Ground,Medication,Medication Error,Solumedrol,,Solumedrol 125 mg administered instead of 62.5 mg per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,2,2023,A,Air,Medication,Medication Error,Fentanyl,,Expired Fentanyl administered to patient.,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,July,3,2023,A,Air,Medication,Medication Error,Ketamine,,Ketamine 0.5 mg/kg administered instead of new protocol dose of 0.2 mg/kg.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,5,2023,C,Air,Medication,Other,Morphine,,Morphine dropped and capped popped off. Wasted appropriately.,,,,,
+,July,5,2023,A,Air,Medication,Medication Error,Epinephrine,,Epinephrine 1 mg IO administered instead of 0.4 mg per protocol.,Not documented,Cardiac arrest,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,9,2023,E,Air,Medication,Medication Error,Cardene,,Cardene line not connected to patient IV during transport.,Documented as done,,Not documented,Other,Dosing error (medication unitentionally on hold)
+,July,15,2023,F,Ground,Medication,Medication Error,Morphine,Versed,Morphine 5 mg administered instead of intended Versed 5 mg.,Not documented,Combative patient,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Versed)
+,July,20,2023,F,Ground,Medication,Medication Error,Droperidol,,Droperidol 5 mg administered instead of 2.5 mg per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,20,2023,F,Ground,Medication,Medication Error,Atropine,,Atropine administered instead of intended Epinephrine during cardiac arrest.,Not documented,Cardiac arrest,Not documented,Unintended Wrong Medication Given,Wrong Med (Atropine instead of Epinephrine)
+,July,23,2023,D,Air,Medication,Medication Error,Dilaudid,,2 mg of Diluadid given instead of 1 mg.,Not documented,,No adverse effects,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,23,2023,A,Air,Medication,Medication Error,Succinylcholine,,Succinylcholine 200 mg administered instead 150 mg max dose per protocol. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,July,30,2023,C,Air,Medication,Medication Error,Propofol,,Propofol programmed into IV pump incorrectly. ,Not documented,,Not documented,IV Pump programming error,Dosing error (limit per kg exceeded)
+,July,31,2023,D,Air,Medication,Medication Error,Cardene,,Cardene administered as ml/hr instead of actual dose.,Documented as not done,,Not documented,IV Pump programming error,Dosing error (limit per kg exceeded)
+,August,3,2023,F,Ground,Medication,Other,Magnesium Sulfate,,Pump administered medication at faster drip ratethan programmed.,Not documented,,,,
+,August,4,2023,C,Air,Medication,Other,Ketamine,,Broken Ketamine vial in ordered received from McKesson.,,,,,
+,August,12,2023,C,Air,Medication,Medication Error,Dilaudid,,Dilaudid 2 mg administered instead of intended 1 mg.,Not documented,,No adverse effects,Medication dosing error (Protocols),Dosing error (protocol error)
+,August,13,2023,F,Ground,Medication,Medication Error,Zofran,,Zofran administered to a patient allergic to Zofran.,Not documented,,Not documented,Medication Allergy Caution,Medication Allergy Caution
+,August,13,2023,F,Ground,Medication,Medication Error,Fentanyl,Versed,Fentanyl 100 mcg IN administered instead of intended Versed 5 mg IN.,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Fentanyl instead of Versed)
+,August,13,2023,F,Ground,Medication,Medication Error,D5W,Ns,D5W 650 ml administered instead of intended NS.,Not documented,,Blood sugar rose from 307 to 440,Unintended Wrong Medication Given,Wrong Med (D5W instead of NS)
+,August,19,2023,D,Air,Medication,Medication Error,Norepinephine,,Norepinephrine drip concentration infused as 8 mg/250 ml instead of actual 8mg/500 ml.,Documented as not done,,Hypotension,IV Pump programming error,Concentration error
+,August,24,2023,F,Ground,Medication,Medication Error,Benadryl,,Benadryl IM administered outside of protocol.,Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,September,2,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 1:1000 0.1 ml given IV instead of intended IM.,Documented as done,Anaphylaxis,Not documented,Medication dosing error (Protocols),Concentration error
+,September,2,2023,A,Air,Medication,Expired Medication,Versed,,Expired Versed in stock.,,,,,
+,September,2,2023,F,Ground,Medication,Medication Error,Fentanyl,,Fentanyl 500 mcg administered after mistaking a run button with alarm silence button on IV pump.,Not documented,,"Apnea, BVM, Narcan, spontaneous respirations",IV Pump programming error,Dosing error (limit per kg exceeded)
+,September,2,2023,A,Air,Medication,Expired Medication,Versed,,Expired Versed in stock.,,,,,
+,September,4,2023,A,Air,Medication,Medication Error,Etomidate,Rocuronium,Etomidate and Rocuronium administered with dosage based on pounds instead of kilograms.,Documented as done,Respiratory distress/failure,Not documented,Medication dosing error (Protocols),Dosing error (pound/kg error)
+,September,4,2023,C,Air,Medication,Other,Versed,,Pharmacy mislabeled a Versed infusion.,,,,,
+,September,5,2023,F,Ground,Medication,Other,Ketamine,,Ketamine administered per physician's order.,,,,,
+,September,7,2023,A,Air,Medication,Narcotic Log,Versed,,Versed vials are 5mg/1ml instead of 10 mg/2 ml. ,,,,,
+,September,11,2023,A,Air,Medication,Medication Error,Ketamine,,Ketamine 50 mg IV administered beyond the max analgesia dose per protocol. ,Not documented,,No adverse effect,Medication dosing error (Protocols),Dosing error (sedation dosage for analgesia dose of Ketamine)
+,September,15,2023,F,Ground,Medication,Medication Error,Ativan,Cardizem,Cardizem administed instead of intended Ativan.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Cardizem instead of Ativan)
+,September,16,2023,A,Air,Medication,Medication Error,Ketamine,,Ketamine 35 mg x 2 administered for analgesia instead of 0.2 mg/kg per protocol.,Documented as not done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,September,17,2023,F,Ground,Medication,Medication Error,Ketamine,Versed,Ketamine 50 mg IV administered instead of intended Versed 5 mg. ,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Ketamine instead of Versed)
+,September,19,2023,E,Air,Medication,Other,Ketamine,,Ketamine top popped off in narcotic bag.,,,,,
+,September,25,2023,E,Air,Medication,Medication Error,Ativan,,Ativan 2 mg IV administered instead of 0.5 mg per protocol.,Not documented,Combative patient,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,September,27,2023,D,Air,Medication,Other,Fentanyl,Morphine,Popped the top off of Fentanyl instead of intended Morphine.,,,,,
+,October,2,2023,F,Ground,Medication,Other,Narcan,,Some Narcan carpujects are sealed not allowing medication to be pushed.,,,,,
+,October,8,2023,C,Air,Medication,Medication Error,Not Documented,,"""Was going to titrate down a medication and accidently 'paused' medication for approx 5 mins.""",Not documented,,Not documented,IV Pump programming error,Infusion not connected to IV
+,October,8,2023,F,Ground,Medication,Medication Error,Versed,,Versed 10 mg IV administered instead of intended 5 mg.,Not documented,Patient actively seizing,Not documented,Medication dosing error (Protocols),Route error
+,October,11,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 100 mcg given push dose.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,October,12,2023,E,Air,Medication,Other,Fentanyl,,Sending facility would not allow flight crews to take Fentanyl drip on transport.,,,,,
+,October,12,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 1:1000 IV administered instead of IM.,Not documented,Anaphylaxis,Cardiac arrest (30-40 minutes later),Medication dosing error (Protocols),Dosing error (protocol error)
+,October,14,2023,D,Air,Medication,Other,Versed,,Versed vial dropped and broken.,,,,,
+,October,14,2023,C,Air,Medication,Medication Error,Dilaudid,,Dilaudid infused at 2 ml/hr instead of intended 2 mg/hr.,Documented as done,,Not documented,IV Pump programming error,Dosing error (underdosed)
+,October,17,2023,C,Air,Medication,Medication Error,Propofol,,Propofol 10000 mcg/100 ml administered instead of intended 1000 mcg/100 ml.,Documented as not done,,Not documented,IV Pump programming error,Concentration error
+,October,18,2023,F,Ground,Medication,Other,Narcan,,Some Narcan carpujects are sealed not allowing medication to be pushed.,,,,,
+,October,18,2023,F,Ground,Medication,Other,Potassium,,Nurse from sending gave bolus of Potassium 10 mEq/100 ml.,,,,,
+,October,18,2023,D,Air,Medication,Medication Error,Fentanyl,,"""Inappropriate administration route of Fentanyl (drip) for pain control on a conscious patient"".",Not documented,,Not documented,Protocol deviation,Medication use outside of protocols
+,October,21,2023,F,Ground,Medication,Medication Error,Not Documented,,"""Incorrect medication given"".",Not documented,,Not documented,Limited information,Limited information
+,October,23,2023,A,Air,Medication,Other,Versed,,Versed adminsitered but not accounted for in charting.,,,,,
+,October,25,2023,F,Ground,Medication,Medication Error,Fentanyl,,Expired Fentanyl administered to patient.,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,October,30,2023,F,Ground,Medication,Medication Error,Versed,Fentanyl,Versed 10 mg administed instead of intended Fentanyl 100 mcg.,Documented as not done,,"Hospital informed, Supervisor informed.",Unintended Wrong Medication Given,Wrong Med (Versed instead of Fentanyl)
+,October,31,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine administered beyond max dose.,Not documented,Anaphylaxis,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,November,3,2023,A,Air,Medication,Medication Error,Norepinephine,,Norepinephrine titrated to 5 mcg/kg/min past max dose of 2 mcg/kg/min.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,November,4,2023,F,Ground,Medication,Medication Error,Morphine,Versed,Morphine 2.5 mg administered instead of intended Versed 2.5 mg.,Not documented,Patient actively seizing,"Hospital informed, Supervisor informed.",Unintended Wrong Medication Given,Wrong Med (Morphine instead of Versed)
+,November,5,2023,A,Air,Medication,Medication Error,Insulin,,Insulin drip programmed incorrectly to IV pump resulting entire volume admonistered over 30-45 minutes.,Not documented,,Hospital informed,IV Pump programming error,Concentration error
+,November,6,2023,F,Ground,Medication,Medication Error,Morphine,Versed,Morphine 5 mg administered instead of intended Versed 5 mg.,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Versed)
+,November,6,2023,E,Air,Medication,Medication Error,Propofol,,Propofol drip documented at rate of 150 ml/hr (1500 mg/hr).,Not documented,,Not documented,IV Pump programming error,Dosing error (limit per kg exceeded)
+,November,7,2023,F,Ground,Medication,Other,Narcan,,Some Narcan carpujects are sealed not allowing medication to be pushed.,,,,,
+,November,8,2023,D,Air,Medication,Medication Error,Epinephrine,,Epinephine (1 mg/100 ml) initiated at 20 mcg/min without a medical control order.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,November,9,2023,F,Ground,Medication,Other,Propofol,,IV pump failure.,,,,,
+,November,10,2023,A,Air,Medication,Medication Error,Ketamine,,Ketamine 50 mg IM administered instead of 10 mg (0.2 mg/kg IM) per protocol.,Not documented,Pediatric trauma,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,November,10,2023,C,Air,Medication,Narcotic Log,Fentanyl,,Narcotic log discrepancy.,,,,,
+,November,14,2023,D,Air,Medication,Medication Error,Norepinephine,,Norepinephrine not started which resulted in prolonged hypotensive to patient with head bleed and increased ICPs.,Documented as done,Trauma,Prolonged hypotension with head bleed diagnosis,IV Pump programming error,Infusion not connected to IV
+,November,18,2023,D,Air,Medication,Medication Error,Fentanyl,,Fentanyl 100 mcg IV administered instead of intended 50 mcg.,Documented as done,Combative patient,Oxygen 6L NC,Medication dosing error (Protocols),Dosing error (protocol error)
+,November,18,2023,A,Air,Medication,Medication Error,Fentanyl,,Fentanyl dosing incorrectly programmed into IV pump.,Not documented,,No adverse effects,IV Pump programming error,Concentration error
+,November,21,2023,F,Ground,Medication,Medication Error,Lidocaine,Narcan,Lidocaine IN administered instead of intended Narcan.,Not documented,Respiratory distress/failure,Not documented,Unintended Wrong Medication Given,Wrong Med (Lidocaine instead of Narcan)
+,November,21,2023,F,Ground,Medication,Medication Error,Not Documented,,Not documented,Not documented,,Not documented,Limited information,Limited information
+,November,22,2023,C,Air,Medication,Medication Error,Magnesium Sulfate,,Magnesium Sulfate 20 g/1 L administered as 20g/500 mg.,Not documented,,Not documented,IV Pump programming error,Concentration error
+,November,23,2023,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 1:1000 IV administered instead of IM.,Not documented,,Not documented,Medication dosing error (Protocols),Route error
+,November,23,2023,C,Air,Medication,Other,Dilaudid,,Diluadid top popped in narcotic case.,,,,,
+,December ,1,2023,A,Air,Medication,Medication Error,Not Documented,,Fluid bolus calculated based upon pounds instead of kiligrams resulting in extra fluid administered. ,Not documented,,No adverse effects,Medication dosing error (Protocols),Dosing error (pound/kg error)
+,December ,10,2023,E,Air,Medication,Medication Error,Not Documented,,"""Error made during dilutuion of medication. Medication administration continued after error made"".",Not documented,,Not documented,Limited information,Limited information
+,December ,12,2023,C,Air,Medication,Medication Error,Fentanyl,Ketamine,Fentanyl administered instead of intended Ketamine during RSI procedure.,Documented as done,RSI procedure,Not documented,Unintended Wrong Medication Given,Wrong Med (Fentanyl instead of Ketamine)
+,December ,12,2023,C,Air,Medication,Narcotic Log,Ketamine,,Incorrect concentration of Ketamine on narcotic log.,,,,,
+,December ,13,2023,E,Air,Medication,Medication Error,Rocuronium,,Rocuronium 0.3 mg/kg administered instead of 1 mg/kg per protocol.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,December ,14,2023,F,Ground,Medication,Medication Error,Zyprexa,,Zyprexa 10 mg IM administered instead of intneded 5 mg IM. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (limit per kg exceeded)
+,December ,16,2023,C,Air,Medication,Narcotic Log,Fentanyl,,Fentanyl incorrectly documented as 20 vials in box instead of actual 25 vials. Log corrected.,,,,,
+,December ,26,2023,E,Air,Medication,Medication Error,Versed,Fentanyl,Versed 5 mg IM administered instead of intended Fentanyl 100 mcg IM.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Versed instead of Fentanyl)
+,December ,29,2023,F,Ground,Medication,Other,Versed,,Versed wasted while trying to administer to patient. ,,,,,
+,January,3,2024,D,Air,Medication,Medication Error,Ketamine,Versed,Ketamine infused instead of intended Versed infusion. ,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Ketamine instead of Versed)
+,January,4,2024,C,Air,Medication,Medication Error,Cardene,,Cardene infused at 3.2 ml/hr for 15 minutes instead of 40 ml/hr.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (underdosed)
+,January,9,2024,D,Air,Medication,Other,Tpa,,Mislabeled TPA infusion concentration.,,,,,
+,January,11,2024,F,Ground,Medication,Other,Narcan,,Narcan missing from box.,,,,,
+,January,12,2024,F,Ground,Medication,Medication Error,Morphine,,Oral suspension of Morphine administered IV. ,Not documented,,"No adverse effects, Receiving notified, Admin notified",Medication dosing error (Protocols),Route error
+,January,14,2024,A,Air,Medication,Medication Error,Epinephrine,,10 ml of Epinephrine given as push dose instead of intended 0.5 - 2 ml. ,Documented as not done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,January,18,2024,F,Ground,Medication,Medication Error,Adenosine,,Adenosine given for elevated heart rate post duoneg treatments,Not documented,,,Protocol deviation,Protocol deviation
+,January,19,2024,C,Air,Medication,Medication Error,Magnesium Sulfate,,Mixed Magnesium drip at 5 g/500 ml when it was actually 20 g/500 ml,Not documented,,,Medication dosing error (Protocols),Concentration error
+,January,22,2024,C,Air,Medication,Other,Fentanyl,,Fentanyl vial broken in narcotic case.,,,,,
+,January,24,2024,C,Air,Medication,Narcotic Log,Morphine,,Narcotic miscount/error,,,,,
+,January,26,2024,C,Air,Medication,Medication Error,Fentanyl,,Fentanyl infused at concentration of 50mcg/100 ml instead of 500 mcg/100 ml causing 500 mcg of Fentanyl to be infused over 30 min. ,Not documented,,"No adverse effects, Receiving notified, Admin notified",IV Pump programming error,Dosing error (protocol error)
+,January,27,2024,D,Air,Medication,Medication Error,Versed,,Flushed Versed through IV instead of NS flush.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Versed instead of NS Flush)
+,January,27,2024,F,Ground,Medication,Other,Cardene,Cardizem.,Patient reported to be on Cardene but actually is on Cardizem.,,,,,
+,January,29,2024,A,Air,Medication,Other,Ketamine,,Estimated weight at 150 kg when actual weight was 140 kg.,,,,,
+,January,30,2024,E,Air,Medication,Medication Error,Not Documented,,Not documented,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,February,5,2024,F,Ground,Medication,Medication Error,Versed,,Versed 5 mg given IV instead of IM.,Documented as done,,Not documented,Medication dosing error (Protocols),Route error
+,February,7,2024,A,Air,Medication,Medication Error,Ketamine,,Ketamine 200 mg was adminstered instead of intended 40 mg. ,Not documented,,Medical Control notified,Medication dosing error (Protocols),Dosing error (protocol error)
+,February,8,2024,D,Air,Medication,Other,Ativan,,Open Ativan vial that was not administered.,,,,,
+,February,8,2024,A,Air,Medication,Other,Precedex,,Limits on Precedex bolus administration within Sapphire IV pump library.,,,,,
+,February,8,2024,F,Ground,Medication,Medication Error,Epinephrine,,Epinephrine 1 mg (1:10000) administered instead of required dose of 0.2 mg. ,Documented as not done,Pediatric Cardiac arrest,Medical Control notified,Medication dosing error (Protocols),Dosing error (protocol error)
+,February,10,2024,D,Air,Medication,Medication Error,Ketamine,,Inocorrect dose of Ketamine given.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,February,11,2024,F,Ground,Medication,Medication Error,Ketamine,,Ketamine administered at 0.3 mg/lb instead of intended 0.3 mg/kg.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (pound/kg error)
+,February,14,2024,F,Ground,Medication,Medication Error,Ketamine,,Ketamine given at dose of 10 mg/kg. ,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,February,20,2024,A,Air,Medication,Medication Error,Fentanyl,,Fentanyl admistered to patient with allergies documented to Fentanyl.,Not documented,,No adverse effects,Medication Allergy Caution,Medication Allergy Caution
+,February,21,2024,F,Ground,Medication,Medication Error,Versed,,Gave Versed 20 mg instead instended dose of 10 mg.,Not documented,,Not documented,Medication dosing error (Protocols),Concentration error
+,February,22,2024,E,Air,Medication,Adverse Effect,Zosyn,,"Extreme nausea, vomiting, and burning at IV site during Zosyn adminisration.",,,,,
+,February,26,2024,C,Air,Medication,Medication Error,D5Lr,,"800 ml of LR with 5% dextrose bolused. Initial BG 72, afterwards BG 407.",Not documented,,Blood glucose 78 to 407,Unintended Wrong Medication Given,Wrong Med (LR with 5% Dextrose instead of LR)
+,February,26,2024,C,Air,Medication,Other,Dilaudid,Fentanyl,Mistake in documenting which narcotic was replaced from main supply.,,,,,
+,February,28,2024,A,Air,Medication,Other,Acetbnophen,,Leaks in AcetBnophen bags.,,,,,
+,March,3,2024,D,Air,Medication,Medication Error,Norepinephine,,Levophed administered as 0.3 mcg/kg/min instead on 0.03 mcg/kg/min.,Documented as done,Fatigue documented,Not documented,IV Pump programming error,Dosing error (protocol error)
+,March,4,2024,F,Ground,Medication,Medication Error,Labetolol,,Labetolol administered depite CHF contraindication,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,March,6,2024,C,Air,Medication,Expired Medication,Ketamine,Fentanyl,Expired Ketamine and Fentanyl in stock.,,,,,
+,March,8,2024,C,Air,Medication,Medication Error,Propofol,,Propofol started at 0 mch/kg/hour instead of 50 mcg/kg/min,Not documented,,No adverse effects,IV Pump programming error,Dosing error (protocol error)
+,March,13,2024,E,Air,Medication,Medication Error,Cardene,,Cardene amp not mixed with infusion NS causing NS to be administered only. ,Documented as done,,Not documented,IV Pump programming error,Dosing error (underdosed)
+,March,14,2024,D,Air,Medication,Medication Error,Oxytocin,,Oxytocin 100 units delivered instead of max of  60 units per protocol. ,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,March,17,2024,F,Ground,Medication,Medication Error,Ativan,Fentanyl,Ativan administed instead of intended Fentanyl.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Ativan instead of Fentanyl)
+,March,26,2024,C,Air,Medication,Other,Dilaudid,,Narcotic spilled on accident.,,,,,
+,March,28,2024,F,Ground,Medication,Other,Versed,,Versed 2 mg inteneded. Arm bumped and 3 mg given.,,,,,
+,March,30,2024,A,Air,Medication,Medication Error,Ketamine,,Ketamine dosing error.,Not documented,,,Medication dosing error (Protocols),Dosing error (general)
+,March,31,2024,E,Air,Medication,Medication Error,Ketamine,,Ketamine dosed based on 50 mg/ml instead of actual cobncetration of 100 mg/ml (240 mg delivered instead of 120 mg).,Not documented,,No adverse effects,Medication dosing error (Protocols),Calculation error 
+,April,2,2024,C,Air,Medication,Expired Medication,Nitroglycerin,Rocuronium,Expired medication in medication box.,,,,,
+,April,2,2024,F,Ground,Medication,Medication Error,Succinylcholine,Txa,Succinylcholine administered instead of intended TXA,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong Med (Succinylcholine instead of TXA)
+,April,4,2024,D,Air,Medication,Other,Versed,,Versed vialed found to be cracked during daily count.,,,,,
+,April,8,2024,A,Air,Medication,Medication Error,Ketamine,,"Ketamine 0.5 mg/kg given IV for analgesia. Per protocol, that dose is supposed o be IM.",Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,April,8,2024,F,Ground,Medication,Missing medication,Versed,,Misplaced Versed 5mg vial during transport.,,,,,
+,April,11,2024,E,Air,Medication,Medication Error,Lidocaine,,Wrong lidocaine dose?,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,April,11,2024,F,Ground,Medication,Medication Error,Lidocaine,,Lidocaine 100 mg administered post IO insertion.,Not documented,,,Protocol deviation,Protocol deviation
+,April,12,2024,C,Air,Medication,Other,Versed,,Versed top cover popped off.,,,,,
+,April,18,2024,F,Ground,Medication,Other,Ketamine,,Ketamine administered. Dosage thought to be incorrect but later verified to be correct.,,,,,
+,April,19,2024,F,Ground,Medication,Medication Error,Versed,,Incorrect amount of Versed administered to a pediatric patient. ,Documented as not done,Patient actively seizing,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,April,22,2024,D,Air,Medication,Other,Ancef,,Ancef admnistered. EMS forgot to report that they had already administered Ancef.,,,,,
+,April,25,2024,D,Air,Medication,Other,Ativan,,Broken vial of Ativan found in trasnport.,,,,,
+,May,4,2024,D,Air,Medication,Medication Error,Not Documented,,Expired medication administered,Not documented,,Not documented,Expired medications administered,Expired medications administered
+,May,10,2024,B,Air,Medication,Medication Error,Heparin,,Heparin dose programmed as ml/min instead of ml/hr,Not documented,,Not documented,IV Pump programming error,Dosing error (protocol error)
+,May,12,2024,F,Ground,Medication,Medication Error,Toradol,,Toradol given to patient > 65 years age,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,May,12,2024,F,Ground,Medication,Medication Error,Morphine,Valium,Morphine administered instead of intended Valium.,Not documented,Patient actively seizing,Not documented,Unintended Wrong Medication Given,Wrong Med (Morphine instead of Valium)
+,May,14,2024,F,Ground,Medication,Medication Error,Versed,,Versed 5 mg IV administered (2 mg MAX),Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,May,15,2024,F,Ground,Medication,Medication Error,Versed,Haldol,FBly thinks Versed 5 mg and Haldol 5 mg caused patient to have to be intubated.,Not documented,,Not documented,Other,Other
+,May,16,2024,C,Air,Medication,Other,Ketamine,,Broken vial of Ketamine in newly received package.,,,,,
+,May,16,2024,C,Air,Medication,Other,Ketamine,,Broken vial of Ketamine in newly received package.,,,,,
+,May,18,2024,A,Air,Medication,Medication Error,Norepinephine,,Norepinephine drip administered using non-weight based dosing.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,May,24,2024,A,Air,Medication,Medication Error,Ketamine,Fentanyl,Ketamine administered instead of intended Fentanyl.,Documented as done,,Not documented,Unintended Wrong Medication Given,Wrong Med (Ketamine instead of Fentanyl)
+,May,24,2024,F,Ground,Medication,Medication Error,Amiodarone,,Amiodarone given out of sequence during code.,Not documented,Cardiac arrest,Not documented,Protocol deviation,Protocol deviation
+,May,25,2024,F,Ground,Medication,Medication Error,Ketamine,,Ketamine 300 mg IV given Resulting in intubation needed. ,Not documented,,Respiratory failure resulting in intubation,Medication dosing error (Protocols),Dosing error (protocol error)
+,May,31,2024,D,Air,Medication,Medication Error,Ketamine,Fentanyl,Ketamine administered instead of intended Fentanyl.,Documented as done,,Not documented,Unintended Wrong Medication Given,Wrong Med (Ketamine instead of Fentanyl)
+,June,6,2024,E,Air,Medication,Narcotic Log,Versed,,Versed 10 mg/2 ml added to narcotic stock as 5mg/ml. All stock present. Narcotic log corrected.,,,,,
+,June,8,2024,F,Ground,Medication,Other,Albuterol,Ipratropium,Double dose of Ipratropium administered by FD instead of duoneb. Caught by F crew.,,,,,
+,June,8,2024,F,Ground,Medication,Medication Error,Fentanyl,Ketamine,Protocol limits for sedation exceed due to patient weight of 253.6 kg.,Documented as done,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,June,8,2024,A,Air,Medication,Medication Error,Rocuronium,,Incorrected dosages of Rocuronium administered based on weight of 100 kg versus actual weight of 70 kg.,Not documented,Combative patient,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,June,9,2024,E,Air,Medication,Medication Error,Versed,,Versed 10 mg was given instead of intended dose of 2 mg.,Documented as done,,Hypotension - 250 ml NS blulos given.,Medication dosing error (Protocols),Concentration error
+,June,10,2024,C,Air,Medication,Other,Ketamine,,Two vials of Ketamine were received broken upon delivery.,,,,,
+,June,10,2024,F,Ground,Medication,Medication Error,Fentanyl,,Expired Fentanyl administered to patient.,Not documented,,No adverse effect.,Expired medications administered,Expired medications administered
+,June,11,2024,D,Air,Medication,Other,Ketamine,,Ketamine vial popped off in narcotic carrying case during morning checks.,,,,,
+,June,11,2024,D,Air,Medication,Other,Ativan,,Missing box of Ativan upon delivery.,,,,,
+,June,12,2024,A,Air,Medication,Medication Error,Etomidate,,Etmoidate administered beyond the max dose of 30 mg to combative patient during RSI procedure.,Not documented,Combative patient,,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,June,13,2024,F,Ground,Medication,Medication Error,Heparin,,Heparin dosed based on actual body weight instead of ideal body weight.,Documented as not done,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,June,16,2024,F,Ground,Medication,Medication Error,D10,Ns,D10 administered instead of intended NS. 50 ml administered until caught and disconnected.,Not documented,Cardiac arrest,Not documented,Unintended Wrong Medication Given,Wrong Med (D10 instead of NS)
+,June,16,2024,A,Air,Medication,Medication Error,Ketamine,,Ketamine administered at 2 mg/kg insteead of 1 mg/kg.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (general)
+,June,18,2024,F,Ground,Medication,Medication Error,Dilaudid,,Diluadid adminisred intranasally outside of protocols.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,June,19,2024,F,Ground,Medication,Medication Error,Cardizem,,Incorrect dose and route of Cardizem was adminitered.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (protocol error)
+,June,21,2024,D,Air,Medication,Other,Fentanyl,,Cracked Fentanyl vial.,,,,,
+,June,21,2024,F,Ground,Medication,Medication Error,Adenosine,,Provider administered Adenosine to a patient whom it was contraindicated for.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,June,23,2024,E,Air,Medication,Medication Error,Ketamine,,Gave Ketamine 59 mg when max dose is 50 mg.,Not documented,,Not documented,Medication dosing error (Protocols),Dosing error (exceeded max dose)
+,June,24,2024,A,Air,Medication,Medication Error,Ketamine,,IV pump programming error - concentration 500 mg/100 ml instead of intended 500 mg/250 ml.,Not documented,,Not documented,IV Pump programming error,Concentration Error
+,June,24,2024,E,Air,Medication,Medication Error,Fentanyl,,IV pump programming error - concentration 250 mcg/250 ml instead of intended 2500 mcg/250 ml.,Not documented,,Not documented,IV Pump programming error,Concentration Error
+,June,27,2024,D,Air,Medication,Medication Error,Norepinephine,,IV pump programming error - dosing error 1.2 mcg/kg/min instead of intended 0.12 mcg/kg/min.,Documented as not done,,Elevated blood pressure,IV Pump programming error,Medicaltion dosing error (Protocols)
+,June,29,2024,F,Ground,Medication,Medication Error,Ketamine,,Ketamine administered outside of protocols.,Not documented,,Not documented,Protocol deviation,Protocol deviation
+,June,30,2024,F,Ground,Medication,Medication Error,Ketamine,Ativan,Ativan IM administered instead of intended Ketamine IM.,Not documented,,Not documented,Unintended Wrong Medication Given,Wrong med (Ativan instead of Ketamine)
