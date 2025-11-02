@@ -78,5 +78,36 @@ This baseline establishes the foundation for:
 - Model monitoring / drift detection
 - Deployment into a dashboard or API
 
+- ---
+
+## 🔁 How to Reproduce
+
+You can run the full pipeline (data cleaning → forecasting → harm model → calibration plots → saved artifacts) in Google Colab.
+
+**1. Open the notebook**
+- `notebooks/01_data_forecast_baseline.ipynb`
+- Click: **"Open in Colab"** or use this link:  
+  https://colab.research.google.com/github/SNK9stansell88/aeroguard-ai-med-safety/blob/main/notebooks/01_data_forecast_baseline.ipynb
+
+**2. Upload your local CSV**
+The notebook will clean it, engineer features, run forecasting, and train a calibrated harm model.
+
+**3. Outputs generated automatically**
+- Forecasts
+- PR / Calibration curves
+- Top-risk medication table (last 90 days)
+- Harm model metrics (AUROC/AUPRC/Brier)
+- Trained model artifact (`harm_model_calibrated.joblib`)
+- Project ZIP with everything: `medsafe_project.zip`
+
+All saved to the repo structure defined in `/reports`, `/models`, `/data/processed`.
+
+---
+
+✅ Fully reproducible  
+✅ No hidden local dependencies  
+✅ Anyone can re-run with a single notebook
+
+
 ## License
 TBD
