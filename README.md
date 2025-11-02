@@ -1,5 +1,12 @@
 # AeroGuard-AI — System-Level Medication Safety (EMS / Air Medical)
 
+[![GitHub Release](https://img.shields.io/github/v/release/SNK9stansell88/aeroguard-ai-med-safety?color=blue&label=Release)](https://github.com/SNK9stansell88/aeroguard-ai-med-safety/releases)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue.svg)]()
+[![Google Colab](https://img.shields.io/badge/Open%20in-Colab-orange.svg)]()
+
+
+# AeroGuard-AI — System-Level Medication Safety (EMS / Air Medical)
+
 **Goal:** Predict *where, when, and how* medication harm will occur across the system and **optimize** limited safety actions (not just report audits/training). This project complements, not replaces, bedside tools like Handtevy.
 
 ## What’s in this repo
@@ -107,6 +114,26 @@ All saved to the repo structure defined in `/reports`, `/models`, `/data/process
 ✅ Fully reproducible  
 ✅ No hidden local dependencies  
 ✅ Anyone can re-run with a single notebook
+
+---
+
+## 🚀 Roadmap (what’s coming)
+
+✅ v0.1.0 — Baseline AI model  
+• Forecast monthly med-error counts  
+• Harm-risk prediction (XGBoost + NLP outcome text)  
+• Plots, calibration, saved model artifacts  
+• Colab quick-start with user's own CSV
+
+🛠 v0.2.0 — Real-time scoring API  
+• FastAPI model serving  
+• “Top-risk medications in last 7 days” dashboard  
+• Risk alerts to QA / Safety managers  
+• Local Docker deployment / HIPAA-safe
+
+🔬 v0.3.0 — Reinforcement Learning  
+• Optimize where to place safety actions (training, checklists, pump guards)  
+• Budget-constrained harm reduction
 
 
 ## License
